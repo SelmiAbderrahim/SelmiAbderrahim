@@ -44,13 +44,13 @@
 ---
 
 
-[Upwork]: http://bit.ly/SAupwork
-[Fiverr]: https://www.fiverr.com/selmiabderrahim
-[Facebook]: https://bit.ly/SelmiFB
-[youtube]: https://bit.ly/STYtChannel
-[Quora]: https://bit.ly/SelmiTechQuoraSpace
-[linkedin]: https://bit.ly/SelmiALi
-[Medium]: https://selmiabderrahim.medium.com
+# . [Upwork](http://bit.ly/SAupwork)
+# . [Fiverr](https://www.fiverr.com/selmiabderrahim)
+# . [Facebook](https://bit.ly/SelmiFB)
+# . [youtube](https://bit.ly/STYtChannel)
+# . [Quora](https://bit.ly/SelmiTechQuoraSpace)
+# . [linkedin](https://bit.ly/SelmiALi)
+# . [Medium](https://selmiabderrahim.medium.com)
 
 
 
