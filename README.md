@@ -11,9 +11,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="UCmrvAIpkl1L8WlalusTRlnw | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="selmi-abderrahim-3498a81b3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+### . [Upwork](http://bit.ly/SAupwork)
+### . [Fiverr](https://www.fiverr.com/selmiabderrahim)
+### . [Facebook](https://bit.ly/SelmiFB)
+### . [youtube](https://bit.ly/STYtChannel)
+### . [Quora](https://bit.ly/SelmiTechQuoraSpace)
+### . [linkedin](https://bit.ly/SelmiALi)
+### . [Medium](https://selmiabderrahim.medium.com)
 <br />
 
 ---
@@ -44,13 +48,7 @@
 ---
 
 
-# . [Upwork](http://bit.ly/SAupwork)
-# . [Fiverr](https://www.fiverr.com/selmiabderrahim)
-# . [Facebook](https://bit.ly/SelmiFB)
-# . [youtube](https://bit.ly/STYtChannel)
-# . [Quora](https://bit.ly/SelmiTechQuoraSpace)
-# . [linkedin](https://bit.ly/SelmiALi)
-# . [Medium](https://selmiabderrahim.medium.com)
+
 
 
 
