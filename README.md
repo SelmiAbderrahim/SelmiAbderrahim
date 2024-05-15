@@ -1,7 +1,7 @@
 ### Hi there, I'm Selmi Abderrahim 👋
 
 
-## I'm a Computer Science student, Freelancer, and web developer!!
+## A Full stack web developer!
 
 - 🔭 I recently created my [Youtube channel](https://www.youtube.com/channel/UCmrvAIpkl1L8WlalusTRlnw)!
 - 👯 I’m looking to collaborate with other content creators.
